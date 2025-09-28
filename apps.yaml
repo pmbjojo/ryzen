@@ -1,0 +1,76 @@
+Editors:
+  - Microsoft.VisualStudio.2022.Community
+  - Microsoft.VisualStudioCode
+  - Google.AndroidStudio
+  - JetBrains.IntelliJIDEA.Ultimate
+  - JetBrains.Rider
+  # - JetBrains.Toolbox
+
+Compilers:
+  - GoLang.Go
+  - zig.zig
+  - Rustlang.Rustup
+  - Posit.Quarto
+
+Runtimes:
+  - Volta.Volta
+  - Oven-sh.Bun
+  - DenoLand.Deno
+  - Python.Python.3.13
+  - Microsoft.DotNet.SDK.9
+  - Microsoft.WSL
+  - Canonical.Ubuntu
+  - Docker.DockerDesktop
+
+Development:
+  - Git.Git
+  - GitHub.cli
+  - Hashicorp.Terraform
+  - Starship.Starship
+  - SQLite.SQLite
+  - Microsoft.PowerShell
+  - Microsoft.WindowsTerminal
+  - Microsoft.PowerToys
+
+Gaming:
+  - Valve.Steam
+  - GOG.Galaxy
+  - EpicGames.EpicGamesLauncher
+  - ElectronicArts.EADesktop
+  - Blitz.Blitz
+  - WeMod.WeMod
+  - Blizzard.BattleNet
+  - Ubisoft.Connect
+  - Mojang.MinecraftLauncher
+  - RiotGames.LeagueOfLegends.EUW
+  # - RiotGames.Valorant.EU
+  # - curseforge # search
+
+Browsers:
+  - Google.Chrome
+  - Mozilla.Firefox
+  - Zen-Team.Zen-Browser
+
+Utilities:
+  - 7zip.7zip
+  - VideoLAN.VLC
+  - RaspberryPiFoundation.RaspberryPiImager
+  - MartiCliment.UniGetUI
+  - PlayStation.DualSenseFWUpdater
+  - qBittorrent.qBittorrent
+  # - IDRIX.VeraCrypt
+  # - AMD.AMDSoftwareCloudEdition
+  # - Logitech.GHUB
+  # - Asus.ArmouryCrate
+  # - JoyToKey # search
+  #  - myasus # Manual
+  # - bakkesmod # Manual
+  # - nvidia app # Manual
+  # - playstation accessories # Manual
+
+Communication:
+  - Discord.Discord
+  - Microsoft.Teams
+
+Office:
+  - TheDocumentFoundation.LibreOffice
