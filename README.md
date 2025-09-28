@@ -17,3 +17,5 @@ https://nuphy.com/pages/json-files-for-nuphy-keyboards
 	name = pmbjojo
 
 rebase strategy
+
+remote default branch
