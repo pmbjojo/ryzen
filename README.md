@@ -43,9 +43,12 @@ Unblock-File .\Microsoft.PowerShell_profile.ps1
 - Taskbar
   - Disable task view
   - Hide search
-- Remove default us keyboard
-- Set windows terminal as default terminal
-- Make powershell 7 default shell
+- Keyboard
+  - Remove default us keyboard
+  - Disable taskbar language widget
+- Terminal
+  - Set windows terminal as default terminal
+  - Make powershell 7 default shell
 - Menu Shortcuts
 - Disable startup apps
 - Disable Asus driver hub in the task scheduler 
