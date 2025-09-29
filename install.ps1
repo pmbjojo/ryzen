@@ -5,4 +5,4 @@ ForEach-Object { winget install --id $_ -e --accept-source-agreements --accept-p
 git config --global user.name "pmbjojo"
 git config --global user.email "jourdamj@gmail.com"
 git config --global pull.rebase true
-# git config --global init.defaultBranch main
+# git config --global init.defaultBranch master
